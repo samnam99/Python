@@ -1,4 +1,4 @@
-f = open('/Users/satishseshadri/001_Satish/Learn/Python/testfileforcsv2.txt')
+f = open('./testfileforcsv2.txt')
 for lines in iter(f):
     #print (lines)
    
