@@ -1,0 +1,6 @@
+Name        Permissions
+————        ———————  
+app1_read   ss78231, dg32432, th43784
+app1_edit   gh34231, rt09834, ti23098, fl21356
+app2_read   gh65433
+app2_write  

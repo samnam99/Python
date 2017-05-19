@@ -1,0 +1,5 @@
+Name        Age            Amt
+————        -——            ———  
+Satish       20            34.2
+Sam          14            23.15
+Joe           6              7
