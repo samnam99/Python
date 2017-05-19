@@ -12,6 +12,7 @@ for lines in iter(f):
     lines=lines.replace(',,', ',')
 
     print (lines)
+    print ('test')
 
 f.close()
 
